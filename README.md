@@ -17,7 +17,7 @@ CONFIG = {
 }
 ```
 
-### Run
+### start 
 ```
 python server.py
 
